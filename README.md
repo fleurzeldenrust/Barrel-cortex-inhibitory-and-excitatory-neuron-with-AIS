@@ -5,6 +5,7 @@ Two models developed to explain the peaks observed in the VC data of our [publis
 
 ## Model description
 Both models are multicompartment models developed in [Brian](https://brian2.readthedocs.io/en/stable/) and consist of 300 compartments that describe the cell soma, axon initial segment (AIS) and axon. 
+![Excitatory and inhibitory cell model](cells.png)
 
 ## References
 da Silva Lantyer, A., Calcini, N., Bijlsma, A., Kole, K., Emmelkamp, M., Peeters, M., … Celikel, T. (2018). Supporting data for “A databank for intracellular electrophysiological mapping of the adult somatosensory cortex.” GigaScience. https://doi.org/dx.doi.org/10.5524/100535
