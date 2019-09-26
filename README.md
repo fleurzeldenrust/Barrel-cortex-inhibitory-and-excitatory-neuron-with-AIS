@@ -1,7 +1,7 @@
 # Barrel-cortex-inhibitory-and-excitatory-neuron-with-AIS
 
 ## Background
-Two models developed to explain the peaks observed in the VC data of our [published dataset (Lantyer et al. 2018)](https://academic.oup.com/gigascience/article/7/12/giy147/5232232). Both models are adapted versions of [Brette (2013)](https://brian2.readthedocs.io/en/2.0rc/examples/frompapers.Brette_2012.Fig1.html). These models show that the peaks in the VC data can be explained as a loss of space clamp at the AIS.
+Two models developed by Eva Koenders to explain the peaks observed in the VC data of our [published dataset (Lantyer et al. 2018)](https://academic.oup.com/gigascience/article/7/12/giy147/5232232). Both models are adapted versions of [Brette (2013)](https://brian2.readthedocs.io/en/2.0rc/examples/frompapers.Brette_2012.Fig1.html). These models show that the peaks in the VC data can be explained as a loss of space clamp at the AIS.
 
 ## Model description
 Both models are multicompartment models developed in [Brian](https://brian2.readthedocs.io/en/stable/) and consist of 300 compartments that describe the cell soma, axon initial segment (AIS) and axon. 
