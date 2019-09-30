@@ -8,6 +8,6 @@ Both models are multicompartment models developed in [Brian](https://brian2.read
 ![Excitatory and inhibitory cell model](cells.png)
 
 ## References
-[1] da Silva Lantyer, A., Calcini, N., Bijlsma, A., Kole, K., Emmelkamp, M., Peeters, M., … Celikel, T. (2018). Supporting data for “A databank for intracellular electrophysiological mapping of the adult somatosensory cortex.” GigaScience. https://doi.org/dx.doi.org/10.5524/100535
+[1] da Silva Lantyer, A., Calcini, N., Bijlsma, A., Kole, K., Emmelkamp, M., Peeters, M., … Celikel, T. (2018). Supporting data for “A databank for intracellular electrophysiological mapping of the adult somatosensory cortex.” GigaScience. https://doi.org/10.1093/gigascience/giy147
 
 [2] Brette, R. (2013). Sharpness of Spike Initiation in Neurons Explained by Compartmentalization. PLoS Computational Biology, 9(12). https://doi.org/10.1371/journal.pcbi.1003338
