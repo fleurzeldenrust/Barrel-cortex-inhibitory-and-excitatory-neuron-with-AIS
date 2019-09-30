@@ -5,7 +5,7 @@ Two models developed by Eva Koenders to explain the peaks observed in the VC dat
 
 ## Model description
 Both models are multicompartment models developed in [Brian](https://brian2.readthedocs.io/en/stable/) and consist of 300 compartments that describe the cell soma, axon initial segment (AIS) and axon. 
-![Excitatory and inhibitory cell model](cells.png)
+![Excitatory and inhibitory cell model](https://github.com/fleurzeldenrust/Barrel-cortex-inhibitory-and-excitatory-neuron-with-AIS/blob/master/cells.png)
 
 ## References
 [1] da Silva Lantyer, A., Calcini, N., Bijlsma, A., Kole, K., Emmelkamp, M., Peeters, M., … Celikel, T. (2018). Supporting data for “A databank for intracellular electrophysiological mapping of the adult somatosensory cortex.” GigaScience. https://doi.org/10.1093/gigascience/giy147
